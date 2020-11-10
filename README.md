@@ -1,5 +1,7 @@
 # SAP CDS: Basic Workshop
 
+Introduction into the definition and usage of Core Data Services (CDS) in ABAP.
+
 ## Agenda
 
 - 13:00 to 13:15
