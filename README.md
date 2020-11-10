@@ -41,7 +41,7 @@ Introduction into the definition and usage of Core Data Services (CDS) in ABAP.
 ## Speakers
 
 - Jakob Flaman
-- Dr. Alexander Maetzing
+- Alexander Maetzing
 - Jörg Knaus
 - Jörg Müller
 - Sören Schlegel
