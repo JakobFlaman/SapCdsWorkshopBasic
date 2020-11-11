@@ -1,6 +1,6 @@
 # SAP CDS: Basic Workshop
 
-Introduction into the definition and usage of Core Data Services (CDS) in ABAP.
+Introduction into the definition and usage of Core Data Services (CDS View) in ABAP.
 
 ## Agenda
 
@@ -38,8 +38,14 @@ Introduction into the definition and usage of Core Data Services (CDS) in ABAP.
 - 17:00 to 17:15
   - Feedback, Q&A, etc.
 
-## Speakers
+Prerequisites - please install it before the event. It makes it for all smoother and convient.
+- Eclipse IDE
+  - ADT Tools
+  - Valid account SAP Cloud ABAP Trial account
+- Zoom client in a actual version (more stable and ussage of Breakoutrooms)
 
+
+## Speakers
 - Jakob Flaman
 - Alexander Maetzing
 - Jörg Knaus
@@ -47,6 +53,7 @@ Introduction into the definition and usage of Core Data Services (CDS) in ABAP.
 - Sören Schlegel
 
 ## Angels
-
 - Andreas Blättler
 - Roland Knipp
+
+
