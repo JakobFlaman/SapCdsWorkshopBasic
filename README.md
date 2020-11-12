@@ -6,16 +6,17 @@ Introduction into the definition and usage of Core Data Services (CDS View) in A
 
 - 13:00 to 13:15
   - Introduction and Welcome
+    Motivation, Organisation, Source, Sponsors
 - 13:15 to 13:45
-  - First Slides
+  - CDS Basics Overview, Explainationss
 - 13:45 to 14:30
   - Tutorial with Alexander 
     - Breakout Room Auditorium - by Alexander
     - Breakout Room Workshop 01 - Problem Solving
-    - Breakout Room Workshop 02
-    - Breakout Room Workshop 03
-    - Breakout Room Workshop 04
-    - Breakout Room Workshop 05
+    - Breakout Room Workshop 02 - Problem Solving
+    - Breakout Room Workshop 03 - Problem Solving
+    - Breakout Room Workshop 04 - DO NOT USE
+    - Breakout Room Workshop 05 - DO NOT USE
     
 - 14:30 to 14:40
   - Break and Coffee
