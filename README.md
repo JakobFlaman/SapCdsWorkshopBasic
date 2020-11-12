@@ -38,7 +38,7 @@ Introduction into the definition and usage of Core Data Services (CDS View) in A
   - Feedback, Q&A, etc.
 
 ## Prerequisites
-Please install them before the event. It makes it smoother and more convient for all.
+Please install them before the event. It makes it smoother and more convenient for all.
 - Eclipse IDE
   - ADT Tools
   - Valid account SAP Cloud ABAP Trial account
