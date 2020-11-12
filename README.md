@@ -10,8 +10,8 @@ Introduction into the definition and usage of Core Data Services (CDS View) in A
 - 13:15 to 13:45
   - CDS Basics Overview, Explanations
 - 13:45 to 14:30
-  - First part of the tutorial with Alexander 
-    - Breakout Room Auditorium - by Alexander
+  - First part of the tutorial with Alexander Maetzing
+    - Breakout Room Auditorium - by Alexander Maetzing
     - Breakout Room Workshop 01 - Problem Solving
     - Breakout Room Workshop 02 - Problem Solving
     - Breakout Room Workshop 03 - Problem Solving
@@ -47,13 +47,15 @@ Please install them before the event. It makes it smoother and more convient for
 
 ## Speakers
 - Jakob Flaman
-- Alexander Maetzing
 - Jörg Knaus
+- Alexander Maetzing
 - Jörg Müller
 - Sören Schlegel
+- Roland Kramer 
 
 ## Angels
 - Andreas Blättler
 - Roland Knipp
+
 
 
