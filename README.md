@@ -1,4 +1,4 @@
-# SAP CDS: Basic Workshop
+# #vSAPCDSStarterSet - Workshop Basics I
 
 Introduction into the definition and usage of Core Data Services (CDS View) in ABAP.
 
